@@ -8,7 +8,6 @@ I actually have previous experience as a Engineer early in my career, so it's co
 Feel free to check out some of the projects that I have been working on! 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<amchance>&theme=<THEME_NAME>" />
 
 
 
