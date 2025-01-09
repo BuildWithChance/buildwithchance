@@ -25,19 +25,25 @@ Workforce Planning Dashboards
 💻 Mainframe Projects:
 
 Strengthening COBOL and JCL scripts
+
 Exploring modern integrations with legacy tech
 
 🔧 Skill Development:
 
 Enhancing SQL and Python expertise
+
 Expanding my data visualization skills with Tableau
 
 📚 Featured Python Projects:
 
 Blind Auction Application
+
 Caesar Cipher
+
 Hangman Game
+
 Password Generator
+
 Rock-Paper-Scissors Game
 
 📬 Let’s Connect:
