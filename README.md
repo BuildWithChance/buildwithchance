@@ -11,6 +11,7 @@ I'm on a journey to merge my love for legacy systems with modern data-driven sol
 Mainframe Enthusiast: Exploring COBOL, JCL, VSAM, and other tools to bring timeless systems into the modern age.
 People Analytics Learner: Building a portfolio of projects focused on Employee Retention, Workforce Planning, and Diversity Metrics using Python, SQL, and Tableau.
 Lifelong learner with a passion for solving challenges and sharing knowledge!
+
 🎯 What I’m Working On:
 
 📊 People Analytics Projects (In Progress):
