@@ -16,35 +16,40 @@ Lifelong learner with a passion for solving challenges and sharing knowledge!
 
 📊 People Analytics Projects (In Progress):
 
-Employee Retention Analysis
+- Employee Retention Analysis
 
-Diversity and Inclusion Metrics
+- Diversity and Inclusion Metrics
 
-Workforce Planning Dashboards
+- Workforce Planning Dashboards
+  
 
 💻 Mainframe Projects:
 
-Strengthening COBOL and JCL scripts
+- Strengthening COBOL and JCL scripts
 
-Exploring modern integrations with legacy tech
+- Exploring modern integrations with legacy tech
+
 
 🔧 Skill Development:
 
-Enhancing SQL and Python expertise
+- Enhancing SQL and Python expertise
 
-Expanding my data visualization skills with Tableau
+- Expanding my data visualization skills with Tableau
+  
 
 📚 Featured Python Projects:
 
-Blind Auction Application
+- Blind Auction Application
 
-Caesar Cipher
+- Caesar Cipher
 
-Hangman Game
+- Hangman Game
 
-Password Generator
+- Password Generator
 
-Rock-Paper-Scissors Game
+- Rock-Paper-Scissors Game
+
+
 
 📬 Let’s Connect:
 Whether you’re a fellow tech enthusiast, a potential collaborator, or just curious about my journey, I’d love to connect! Feel free to check out my repositories and reach out. Let’s build something amazing together! 💌
