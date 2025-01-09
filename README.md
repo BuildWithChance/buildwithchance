@@ -17,7 +17,9 @@ Lifelong learner with a passion for solving challenges and sharing knowledge!
 📊 People Analytics Projects (In Progress):
 
 Employee Retention Analysis
+
 Diversity and Inclusion Metrics
+
 Workforce Planning Dashboards
 
 💻 Mainframe Projects:
