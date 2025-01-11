@@ -32,7 +32,7 @@ Lifelong learner with a passion for solving challenges and sharing knowledge!
 
 🔧 Skill Development:
 
-- Enhancing SQL and Python expertise
+- Enhancing SQL, Python and R expertise
 
 - Expanding my data visualization skills with Tableau
   
