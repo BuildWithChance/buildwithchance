@@ -14,13 +14,13 @@ Lifelong learner with a passion for solving challenges and sharing knowledge!
 
 🎯 What I’m Working On:
 
-📊 People Analytics Projects (In Progress):
+📊 People Analytics Projects: 
 
 - Employee Retention Analysis
 
-- Diversity and Inclusion Metrics
+- Diversity and Inclusion Metrics - In Progress
 
-- Workforce Planning Dashboards
+- Workforce Planning Dashboards - In Progress
   
 
 💻 Mainframe Projects:
