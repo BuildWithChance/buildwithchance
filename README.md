@@ -6,7 +6,7 @@ Thanks for stopping by my little corner of the tech universe!
 
 🌟 About Me:
 Hi, I’m Ashley Chance! ✨
-I'm on a journey to merge my love for legacy systems with modern data-driven solutions. My background spans talent sourcing, career coaching, and software development, and now I’m diving into People Analytics and Mainframe Development to expand my impact in the tech world. 💻✨
+My background spans talent sourcing, career coaching, and now software development (self-taught), and now I’m diving into People Analytics and Mainframe Development to expand my impact in the tech world. 💻✨
 
 Mainframe Enthusiast: Exploring COBOL, JCL, VSAM, and other tools to bring timeless systems into the modern age.
 People Analytics Learner: Building a portfolio of projects focused on Employee Retention, Workforce Planning, and Diversity Metrics using Python, SQL, R, and Tableau.
