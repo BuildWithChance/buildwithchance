@@ -5,7 +5,7 @@ Thanks for stopping by my little corner of the tech universe!
 <img src="https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif" width="300px">
 
 🌟 About Me:
-Hi, I’m Ashley Chance! ✨
+Hi, I’m Ashley! ✨
 My background spans talent sourcing, career coaching, and now software development (self-taught), and now I’m diving into People Analytics and Mainframe Development to expand my impact in the tech world. 💻✨
 
 Mainframe Enthusiast: Exploring COBOL, JCL, VSAM, and other tools to bring timeless systems into the modern age.
