@@ -1,4 +1,4 @@
-👋🏾 Welcome to my GitHub!
+Welcome to my GitHub!
 Thanks for stopping by my little corner of the tech universe!
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
