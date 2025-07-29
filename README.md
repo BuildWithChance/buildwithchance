@@ -1,60 +1,54 @@
-Welcome to my GitHub!
-Thanks for stopping by my little corner of the tech universe!
+# 👋 Welcome to My GitHub!
+
+Thanks for stopping by my little corner of the tech universe!  
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <img src="https://media.giphy.com/media/3o72F2fmqq8uYg6VdC/giphy.gif" width="300px">
 
-🌟 About Me:
-Hi, I’m Ashley! ✨
-My background spans talent sourcing, career coaching, and now software development (self-taught), and now I’m diving into People Analytics and Mainframe Development to expand my impact in the tech world. 💻✨
+---
 
-Mainframe Enthusiast: Exploring COBOL, JCL, VSAM, and other tools to bring timeless systems into the modern age.
-People Analytics Learner: Building a portfolio of projects focused on Employee Retention, Workforce Planning, and Diversity Metrics using Python, SQL, R, and Tableau.
-Lifelong learner with a passion for solving challenges and sharing knowledge!
+## 🌟 About Me
 
-🎯 What I’m Working On:
+Hi, I’m **Ashley**! ✨  
+I’m a **career strategist turned developer**—blending a background in **talent sourcing** and **career coaching** with a growing skill set in **software development**, **people analytics**, and **mainframe technology**.
 
-📊 People Analytics Projects: 
+- 💻 **Mainframe Enthusiast** | Exploring COBOL, JCL, VSAM & more to modernize timeless systems  
+- 📊 **People Analytics Learner** | Focused on employee retention, workforce planning, and diversity metrics using **Python**, **SQL**, **R**, and **Tableau**
+- 🌱 **Lifelong Learner** | Always leveling up and passionate about sharing what I learn along the way
 
-- Employee Retention Analysis
+---
 
-- Diversity and Inclusion Metrics - In Progress
+## 🎯 Current Focus Areas
 
-- Workforce Planning Dashboards - In Progress
-  
+### 🧠 People Analytics Projects
+- 📌 **Employee Retention Analysis**
+- 🛠️ **Diversity & Inclusion Metrics** – In Progress  
+- 📈 **Workforce Planning Dashboards** – In Progress  
 
-💻 Mainframe Projects:
+### 💾 Mainframe Projects
+- 🔍 Strengthening **COBOL** and **JCL** scripting skills  
+- 🔗 Exploring **modern integrations** with legacy tech  
 
-- Strengthening COBOL and JCL scripts
+### 🛠️ Skill Development
+- 🔢 Enhancing **SQL**, **Python**, and **R** proficiency  
+- 📊 Deepening **Tableau** data visualization techniques  
 
-- Exploring modern integrations with legacy tech
+---
 
+## 🐍 Featured Python Projects
+- 🎯 **Blind Auction App**
+- 🔐 **Caesar Cipher**
+- 🎮 **Hangman Game**
+- 🛡️ **Password Generator**
+- ✊🏽 **Rock-Paper-Scissors Game**
 
-🔧 Skill Development:
+---
 
-- Enhancing SQL, Python and R expertise
+## 📬 Let’s Connect
 
-- Expanding my data visualization skills with Tableau
-  
+Whether you're a fellow tech enthusiast, a potential collaborator, or just curious about my journey—I'd love to connect!  
 
-📚 Featured Python Projects:
+💌 Feel free to explore my repos, drop a star ⭐, or reach out.  
+Let’s build something amazing together!
 
-- Blind Auction Application
-
-- Caesar Cipher
-
-- Hangman Game
-
-- Password Generator
-
-- Rock-Paper-Scissors Game
-
-
-
-📬 Let’s Connect:
-Whether you’re a fellow tech enthusiast, a potential collaborator, or just curious about my journey, I’d love to connect! Feel free to check out my repositories and reach out. Let’s build something amazing together! 💌
-
-
-
-
-
+---
